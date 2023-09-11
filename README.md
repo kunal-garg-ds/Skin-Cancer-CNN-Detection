@@ -47,6 +47,8 @@ numpy, pandas,
 os, pathlib, PIL
 google colab, drive
 matplotlib, sns
+
+## Datasets stored in folder: https://drive.google.com/drive/folders/1FXJWW7evLDTlAgT06278gEITCQI6EuoJ?usp=drive_link
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
